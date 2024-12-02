@@ -1,1 +1,1 @@
-**RoleBreak: Character Hallucination as a Jailbreak Attack in Role-Playing Systems**
+## RoleBreak: Character Hallucination as a Jailbreak Attack in Role-Playing Systems
